@@ -1,5 +1,3 @@
-# Lesson 9 Project
-
 🚀 **Overview:**
 A simple HTML and CSS project that demonstrates various user input forms, buttons, and layout styling. Perfect for learning and practicing basic web development skills.
 
