@@ -1,0 +1,115 @@
+.name-input,
+.email-input {
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(140, 140, 140);
+}
+
+.text-inputs {
+    margin-bottom: 20px;
+}
+
+div.para {
+    width: 400px;
+}
+
+div.left-side {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div.right-side {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+div.google {
+    margin-top: 40px;
+}
+
+input.search {
+    display: block;
+    width: 450px;
+    margin-left: 10px;
+    padding: 15px;
+    border: none;
+    box-shadow: 1px 2px 3px 3px lightgrey;
+    border-radius: 20px;
+    font-size: 16px;
+}
+
+div.sign-up {
+    margin-top: 50px;
+}
+
+div.top {
+    margin-bottom: 10px;
+}
+
+.first-name,
+.last-name {
+    padding: 9px;
+    width: 121px;
+    font-size: 16px;
+    color: grey;
+    border-radius: 5px;
+    border: 1px solid rgb(163, 163, 163);
+}
+
+input.email {
+    display: block;
+    padding: 10px;
+    width: 265px;
+    color: grey;
+    border: 1px solid rgb(163, 163, 163);
+    border-radius: 5px;
+}
+
+button.sign-up {
+    margin-top: 10px;
+    padding: 12px;
+    width: 286px;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.pickup,
+.destination {
+    display: block;
+    margin-bottom: 5px;
+    width: 360px;
+    padding: 10px 5px;
+    background-color: rgb(236, 236, 236);
+    border: none;
+    font-size: 15px;
+}
+
+div.buttons {
+    margin-top: 20px;
+}
+
+button.request {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button.schedule {
+    background-color: rgb(236, 236, 236);
+    color: black;
+    border: none;
+    padding: 15px 30px;
+    font-size: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+}
